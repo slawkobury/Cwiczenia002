@@ -52,7 +52,7 @@ public class Tablice {
         System.out.println("Suma to: "+sumaInt);
         System.out.println("\nsrednia wartosc wylosowanych liczb to: "+ sumaDouble / wielkoscTablicy);
 
-
+// zmiana w sieci  !!!!!!!!!
 
 
 
