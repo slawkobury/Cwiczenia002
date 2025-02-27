@@ -1,4 +1,4 @@
-package Arrays;
+package ArraysSB;
 
 import java.util.ArrayList;
 import java.util.Random;
